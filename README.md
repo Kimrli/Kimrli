@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🚧 Profile in progress — I'm currently putting this page together.
+## Selected projects
+
+### AmtDB PCA Tool
+
+An interactive web tool for principal component analysis of ancient mitochondrial DNA data. I developed it as my bachelor's thesis to extend [AmtDB](https://amtdb.org/) with an in-browser workflow for combining AmtDB data with external datasets, running PCA, and interactively exploring the results.
+
+**Python · Django · pandas · scikit-learn · Plotly.js**
+
+**Links:** [AmtDB](https://amtdb.org/) · [Open the tool](https://amtdb.org/pcatool) · [Bachelor's thesis](not yet published, but already successfully defended)
